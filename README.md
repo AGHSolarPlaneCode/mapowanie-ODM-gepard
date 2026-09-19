@@ -1,7 +1,7 @@
 # mapowanie-ODM-gepard
 Mapowanie na podstawie folderu `incoming` (.jpg i .json) z Gepard, oparte na silniku OpenDroneMap.
 
-## 🚀 Jak korzystać z ODM Pipeline
+## Jak korzystać z ODM Pipeline
 
 Ten skrypt automatyzuje proces generowania ortofotomap na podstawie zdjęć lotniczych.
 
