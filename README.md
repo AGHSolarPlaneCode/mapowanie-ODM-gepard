@@ -26,7 +26,7 @@ python "C:\...\odm_pipeline.py" "D:\Sciezka_do_zdjec_z_drona\incoming"
 ```
 *(Wyniki w postaci mapy, raportu i czasu wykonania zapiszą się automatycznie na Pulpicie w specjalnym folderze np. `Wyniki_Mapowania_1430`)*
 
-### ⚙️ Co oznaczają flagi użyte w skrypcie?
+### Co oznaczają flagi użyte w skrypcie?
 
 Proces przetwarzania w pliku `odm_pipeline.py` został wstępnie skonfigurowany specjalnymi parametrami (flagami), żeby był możliwie wydajny. Jeśli zechcesz, możesz je edytować w pliku skryptu. 
 
